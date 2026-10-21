@@ -1,0 +1,20 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "epic-nonprod",
+      "use": "sig",
+      "alg": "RS384",
+      "n": "yFHRK3gwlUsHGkEm0bNdTiP-xcuO-xyLSRmIlegOx1qJyAI2W-j98GgeZxRpGsOT4airdFMtjP6EQzFnSGFoh0HSt1TKmUF_qSoSfgheY4avGxRonULNYl--Dg3N3PGNm14sKYGnQ6V2zl1Os4m66tPGfDGzu-PVxb6_XsXsIYVqOZ6mlTeUXAnwrYfFGNkMDkC92tFxIsb0bERu_1uWIe1U2p4IcZcgZOTT8BPMLtSXYDYMiZxRhZbEKf9ubzh0O3nyujzwQ1by_YZq4mfpH3tj66u3Fs3ZOXudbaR8KqKA23KLqA0yc3JHECT_A8D0FogPqmv2bUINjcior_fH5Q",
+      "e": "AQAB"
+    },
+    {
+      "kty": "RSA",
+      "kid": "oracle-nonprod",
+      "use": "sig",
+      "alg": "RS384",
+      "n": "tYyjSx_hhDiHvE5NfVMP1FNUbn68OuDahwmlT2nOswb8RTP2lOTeQ-x2QWjzWEUH0FHZgv1-EWkn7Wzh8uEaiOpj6yQV6yDS-X-MOx2-fu9DhBLFpX9uvgqypQJeIetDmAeMMWpNeTCX0fuzjzvPwb7GmbfSy6MneakblQ-_qGYQGr-Ih1GF9YMejKF9CdMt1RQOg6BHoPQyCDieEUwZso2dhD65dNouNsibm6o-KP0NQE5k7aTzLzWsBW1fm04HIPHJNLjp-sLdHn-Dz3HVaVGS9i0zY--bkdsUhuq7whq-ipOzY6HGx0kAL_NCiWisBHPmrRmjH0n8QzG3hyShbQ",
+      "e": "AQAB"
+    }
+  ]
+}
