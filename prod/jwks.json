@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "epic-prod",
+      "use": "sig",
+      "alg": "RS384",
+      "n": "1yoXHaQivP28mePuiFZaVWcC6gjSSDnpzpWxuHtC37nwXzUbxiqR3ttfHQgybQID8MSE5_N55cfScoScTSDeZyQUw1FlAK6kLSE2WrVGrMdtVqYpFbPWgh21-ekX20UMm9nLAqMpMyKPhd4FtFwvWCnfYmlFqF0277al5OchNCgS7DpXb85iCrY937jEywJZSYw-rHf4VdQgEDZOX0h2Pipo7bxJEBBdAaXnAA_Y0V2vZlBplB7GoVr30IVPx45mHnNNljCdFk8nRjhHSrIGwGfPWS5sFzJbF33E3dY4RC_DvSg-K0ASKt5rw2uVhcMJwDtzh0H2daIqXbuHVUPXFQ",
+      "e": "AQAB"
+    }
+  ]
+}
